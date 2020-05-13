@@ -19,7 +19,6 @@ artifacts:
   - target/*.jar
   - scripts/*.sh
   - appspec.yml
-  - Procfile
   discard-paths: yes
 
 cache:
