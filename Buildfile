@@ -1,1 +1,1 @@
-build: ./gradlew build
+build: mvn clean install
