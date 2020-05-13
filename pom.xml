@@ -11,7 +11,7 @@
 	<groupId>com.jan</groupId>
 	<artifactId>DemoSpringBoot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>DemoSpringBoot</name>
 	<description>Demo project for Spring Boot</description>
 
